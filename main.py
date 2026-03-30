@@ -58,4 +58,4 @@ print("Bot başladı...")
 while True:
     check_trendyol()
     check_amazon()
-    time.sleep(3600)
+    time.sleep(300)
